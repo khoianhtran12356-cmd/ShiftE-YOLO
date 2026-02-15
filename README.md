@@ -1,5 +1,6 @@
 Cantaloupes pollination flower datasets is uploaded at https://drive.google.com/file/d/1jo4F_u0e4jWK0BWiu-I9QouuLvS83lli/view?usp=sharing
 We learned from shiftwise convolution research and performed large kernel effect simulations for the MSSW module, SW-C2f, applied to enhance the approach field for the Yolv8 model.
+
 Citation
 @inproceedings{lidc2025sw,
   title={ShiftwiseConv: Small Convolutional Kernel with Large Kernel Effect},
