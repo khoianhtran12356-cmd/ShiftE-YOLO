@@ -3,7 +3,7 @@ import torch
 import numpy as np
 import torch.nn as nn
 import torch.nn.functional as F
-
+# cite shiftwise convolution module: https://github.com/lidc54/shift-wiseConv.git
 class PureAddShiftMP(nn.Module):
     """
     Pure-PyTorch simulation of AddShift_mp_module.
