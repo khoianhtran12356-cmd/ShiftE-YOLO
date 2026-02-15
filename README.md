@@ -34,7 +34,7 @@ If you find **ShiftwiseConv** useful, please cite the original paper:
 
 ---
 
-## 🖼️ Visualization
+## 🖼️ Shiftwise Convolution module
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d8807438-731b-4e0a-8b61-1ee3f9f5275c"
